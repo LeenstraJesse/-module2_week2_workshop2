@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: mistyrose;
+}
+
+.geenlist {
+    list-style-type: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.spaghetti {
+    height: auto;
+    width: 300px;
+}
+
+.tomato {
+    height: auto;
+    width: 450px;
+}
+
+ul {
+    font-style: italic;
+}
+
+li {
+    font-style: italic;
+}
+
+figcaption {
+    font-style: italic;
+    margin-left: -140px;
+}
+
+.variation {
+    font-style: italic;
+}
+
+.fig2 {
+    font-style: italic;
+    margin-left: -280px;
+}
+
+
